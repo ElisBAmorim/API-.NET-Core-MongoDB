@@ -1,4 +1,2 @@
 # API-.NET-Core-MongoDB
- Uma API com .NET Core conectando-se num cluster MongoDB no MongoDB Atlas.
-
-tesete
+ Uma API com .NET Core conectando-se a um cluster MongoDB no MongoDB Atlas.
